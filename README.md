@@ -9,7 +9,6 @@ demo:
 <meta name="renderer" content="webkit|ie-stand|ie-comp" />
 <script src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="jquery.compressupload.js"></script>
-
 </head>
 <body>
 <img src="" id="prev" style="height:120px;">
